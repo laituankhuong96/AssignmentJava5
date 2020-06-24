@@ -1,0 +1,167 @@
+html {
+    background: #FFFFFF;
+}
+h3 {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    max-width: 1366px;
+    min-width: 768px;
+    margin: 0px auto;
+    background: #c0c0c0;
+    padding:0px 0px;
+    text-align:center;
+}
+ 
+.page-title  {
+	 
+    font-size:120%;
+    text-align: center;
+    margin:10px 0px;
+}
+.header-container {
+    text-align: center;
+    border-bottom: 13px solid #0000a0;
+    position: relative;
+    background: #0000a0;
+    color: white;
+}
+.header-container .header-bar  {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    
+}
+.header-container .header-bar  a  {
+    color: white;
+    font-size: bold;
+}
+.header-container .header-bar  a:hover  {
+    color: red;
+    font-size: bold;
+}
+ 
+.footer-container {
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px 0px 20px 0px;
+    border-top: 1px solid #ccc;
+    background:black;	
+    color: white;
+}
+.menu-container {
+    text-align: right;
+    padding: 15px 0px 20px;
+    background:black;
+}
+.menu-container a {
+    margin: 5px 5px 5px 10px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.menu-container>a:hover {
+    color: red;
+}
+ 
+.site-name {
+    font-size:200%;
+    margin:10px 10px 10px 0px;
+    padding: 5px;
+}
+ 
+.container  {
+    margin: 5px 0px;
+}
+ 
+.demo-container, .login-container, .account-container {
+    padding: 5px;
+    border: 1px solid #ccc;
+    text-align:center;
+    margin:20px 0px;
+}
+ 
+.customer-info-container {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 0px 5px ;
+}
+.product-preview-container {
+    border: 7px solid black;
+    padding: 5px;
+    width: 300px;
+    margin: 20px ;
+    display: inline-block;
+    text-align:center;
+    background:white;
+}
+ 
+.product-preview-container input {
+    width: 50px;
+}
+ 
+ 
+.product-image {
+    width: 120px;
+    height: 80px;
+}
+ 
+ul {
+    list-style-type: none;
+    padding-left: 5px;
+    margin:5px;
+}
+ 
+ 
+.navi-item {
+    margin: 5px 5px 5px 20px;
+}
+ 
+.button-update-sc {
+    color: red;
+    margin: 5px 5px 5px 20px;
+}
+ 
+.button-send-sc {
+    color: red;
+    margin: 5px 5px 5px 20px;
+}
+ 
+.error-message {
+    font-size: 90%;
+    color: red;
+    font-style: italic;
+}
+ 
+.price {
+    color: blue;
+    font-weight: bold;
+}
+ 
+.subtotal {
+    color: red;
+    font-weight: bold;
+}
+ 
+.total {
+    color: red;
+    font-weight: bold;
+    font-size: 120%;
+}
+ 
+table td {
+    padding: 5px;
+}
+.aaa{
+	padding: 10px 0px 10px 500px;
+}
+
+.bbbb{
+	padding: 10px 0px 10px 500px;
+}
+.cccc{
+	padding: 10px 0px 10px 500px;
+}
+
+
